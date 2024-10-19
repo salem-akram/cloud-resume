@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive - Bahceşehir Üniversitesi/Belgeler/Nicepage Templates/Site1"
+		},
+		{
+			"path": "../../OneDrive - Bahceşehir Üniversitesi/Masaüstü/Fınal Year/aa-Sem2/Capstone 2/Final-project"
+		},
+		{
+			"path": "../../OneDrive - Bahceşehir Üniversitesi/Masaüstü/Fınal Year/aa-Sem2/Capstone 2/Tutoeial MERN/full-mern-stack-video-part1"
+		},
+		{
+			"path": "../../OneDrive - Bahceşehir Üniversitesi/Masaüstü/Fınal Year/aa-Sem2/Capstone 2/travel website"
+		},
+		{
+			"path": "../../OneDrive - Bahceşehir Üniversitesi/Masaüstü/Fınal Year/aa-Sem2/Capstone 2/Capstone-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Travel"
+	}
+}
